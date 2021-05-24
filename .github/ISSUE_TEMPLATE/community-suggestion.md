@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest a new useful feature
+name: Community suggestion
+about: Suggest an idea for the Discord server, advertisement or other community features
 title: ''
-labels: Feature request
+labels: Community suggestion
 assignees: ''
 
 ---
