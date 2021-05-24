@@ -14,7 +14,7 @@ A clear description of what you want to do and why it is difficult
 A description of how you would make this doable
 
 **Screenshots (optional)**
-If possible, add screenshots to help explain your problem (imgur URLs)
+If possible, add screenshots to help explain the problem (imgur URLs)
 
 **Additional context (optional)**
 Add any other context about the problem here

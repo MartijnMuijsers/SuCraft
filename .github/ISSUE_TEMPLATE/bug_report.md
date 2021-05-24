@@ -14,7 +14,7 @@ A clear description of what the bug is
 A description of what you expected to happen
 
 **Screenshots (optional)**
-If possible, add screenshots to help explain your problem (imgur URLs)
+If possible, add screenshots to help explain the problem (imgur URLs)
 
 **Time (optional)**
 Say what day/time this bug happened to you
