@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a new feature
+about: Suggest a new useful feature
 title: ''
 labels: Feature request
 assignees: ''
@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **Describe the feature**
-A clear description of what the feauture is.
+A clear description of what the feauture is
 
 **Reason (optional)**
-Say why you think this feature is important or useful.
+Say why you think this feature is important or useful
 
 **Images (optional)**
-If you want to show a screenshot or image (imgur URLs).
+If you want to show a screenshot or image (imgur URLs)
