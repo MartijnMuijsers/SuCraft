@@ -1,2 +1,2 @@
 # SuCraft
-SuCraft development
+Suggest features, report bugs etc. here!
