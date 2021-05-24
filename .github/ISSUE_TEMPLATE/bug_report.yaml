@@ -1,0 +1,39 @@
+name: Bug report
+description: For bugs on SuCraft
+labels: [Bug]
+body:
+- type: textarea
+  id: description
+  attributes:
+    label: Describe the bug
+    description: "A clear description of what the bug is"
+  validations:
+    required: true
+- type: textarea
+  id: expectedbehavior
+  attributes:
+    label: Expected behavior
+    description: "A description of what you expected to happen"
+  validations:
+    required: false
+- type: input
+  id: screenshots
+  attributes:
+    label: Screenshots
+    description: "If possible, add screenshots to help explain your problem (paste URLs to imgur here)"
+  validations:
+    required: false
+- type: input
+  id: time
+  attributes:
+    label: Time
+    description: "Say what day/time this bug happened to you"
+  validations:
+    required: false
+- type: textarea
+  id: additionalcontext
+  attributes:
+    label: Additional context
+    description: "Add any other context about the problem here"
+  validations:
+    required: false
