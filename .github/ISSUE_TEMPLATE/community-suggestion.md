@@ -2,7 +2,7 @@
 name: Community suggestion
 about: Suggest an idea for the Discord server, advertisement or other community features
 title: ''
-labels: Community suggestion
+labels: Community feature
 assignees: ''
 
 ---

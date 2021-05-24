@@ -2,7 +2,7 @@
 name: Unavailable Minecraft feature
 about: Report that a regular feature is unavailable or hard to use
 title: ''
-labels: Minecraft feature unavailable
+labels: Minecraft feature
 assignees: ''
 
 ---

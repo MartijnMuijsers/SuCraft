@@ -2,7 +2,7 @@
 name: Chat or text issue
 about: Report that something is not explained clearly, there is a typo, etc.
 title: ''
-labels: Chat or text issue
+labels: Chat or text
 assignees: ''
 
 ---
